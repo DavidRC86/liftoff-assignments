@@ -7,11 +7,22 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Creating a C# Windows Application For Mixer.
 ### Features
-Include Features here
+1.Login with OAuth
+2.Local Notifications If Follows Stream is Online
+3.Able to View Follows in client
+4.Hopefully a sms to alert when Streamer goes online
 ### Technologies
-Include Technologies here
+Mixer Restful API
+Authentication Servers
+SharpDev GUI Form
+Client To SMS Alerts
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+C#
+Mixer API
+How to send SMS
+How to set up Windows Desktop Notifications
+
+### Wire Frames

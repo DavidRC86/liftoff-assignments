@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
+https://github.com/DavidRC86
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+https://www.linkedin.com/in/david-cristancho-85b422161/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+https://github.com/DavidRC86/liftoff-assignments/blob/master/C1-Online_Profiles/Cristancho%20-%20David%20-%20Resume%20References.pdf
